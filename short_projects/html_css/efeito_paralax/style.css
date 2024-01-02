@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.parallax {
+  background-image: url('https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/01/20133732/novo-civic-hibrido-1.jpg');
+
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section {
+  height: 300px;
+  text-align: center;
+  padding-top: 100px;
+  background-color: #f1f1f1;
+}
